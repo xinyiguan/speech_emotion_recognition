@@ -49,7 +49,3 @@ emotions = {
 
 #Emotions to observe:
 observed_emotions = {'calm', 'happy', 'fearful', 'disgust'}
-
-
-#==================== Function for loading data =================================
-# Load the data and extract features for each sound file
